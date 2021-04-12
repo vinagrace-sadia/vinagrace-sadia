@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vinagrace-sadia
 - 👀 I’m interested in BE/DevOps
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on https://github.com/philippinessalary
 - 📫 How to reach me: vinasadia@gmail.com
 
 <!---
