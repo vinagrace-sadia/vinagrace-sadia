@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinagrace-sadia
 - 👀 I’m interested in BE/DevOps
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: vinasadia@gmail.com
 
 <!---
