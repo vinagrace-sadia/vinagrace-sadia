@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinagrace-sadia
+- 👋 Hi, I’m Vina Grace
 - 👀 I’m interested in BE/DevOps
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: vinasadia@gmail.com
