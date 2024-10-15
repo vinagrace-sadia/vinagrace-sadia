@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Vina Grace
-- 👀 I’m interested in BE/DevOps
 - 🌱 I’m currently learning LitElement and ExpressJS
 - 📫 How to reach me: vinasadia@gmail.com
 
